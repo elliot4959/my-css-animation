@@ -1,2 +1,2 @@
 # My css animation and transition
-Repo for my css animation and transition work
+A loading bar designed using only css, fills up to the screen width and changes colour from red to green as bar progresses
